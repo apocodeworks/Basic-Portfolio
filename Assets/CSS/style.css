@@ -51,12 +51,19 @@ a:visited {
     background-color: white;
     margin-left: 250px;
     margin-right: 250px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: grey;
 }
 
 h3 {
     font-family: Arial, Helvetica, sans-serif;
     font-size: 24px;
     color: #29a3a3;
+}
+
+#headshot {
+    float: left;
+    padding-right: 20px;
 }
 
 .clearfix:after {
