@@ -13,7 +13,7 @@ header {
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
 #Homebutton {
-    width: 14%;
+    width: 175px;
     float: left;
     margin-top: 0;
     margin-left: 250px;
@@ -53,8 +53,10 @@ a:visited {
     background-color: white;
     margin-left: 250px;
     margin-right: 250px;
+    margin-bottom: 200px;
     font-family: Arial, Helvetica, sans-serif;
     color: grey;
+    font-size: 14px;
 }
 
 h3 {
@@ -66,6 +68,31 @@ h3 {
 #headshot {
     float: left;
     padding-right: 20px;
+}
+
+form {
+    font-size: 16px;
+    color: grey;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.form1 {
+    width: 100%;
+    border: 2px solid rgba(233, 233, 233, 0.8);
+    border-radius: 4px;
+    padding: 5px;
+}
+
+#message {
+    height: 300px;
+}
+
+.smallbutton {
+    color: white;
+    background-color: #29a3a3;
+    padding: 5px;
+    width: 100px;
+    font-weight: bold;
+    font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
 footer {
