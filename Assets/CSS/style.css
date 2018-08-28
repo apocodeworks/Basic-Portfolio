@@ -1,8 +1,49 @@
+body {
+    margin-left: 200px;
+    margin-right: 200px;
+    
+}
+
+
+header {
+    margin-left: 0;
+    margin-right: 0;
+    border-bottom: 5px red solid;
+}
+
 .container {
     border-style: solid;
     border-color: grey;
 }
 
-div {
-    border-style: solid;
+#Homebutton {
+    width: 30%;
+    float: left;
+    margin-top: 0;
 }
+
+#Homebar {
+}
+
+#navbar {
+    
+}
+
+
+li {
+    float: right;
+    padding-right: 20px;
+    
+
+}
+
+.container {
+}
+
+.clearfix:after {
+    content: " "; /* Older browser do not support empty content */
+    visibility: hidden;
+    display: block;
+    height: 0;
+    clear: both;
+ }
