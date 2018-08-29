@@ -111,6 +111,40 @@ footer {
 .projectlink {
     padding: 25px;
 }
+
+
+#link1 {
+    position: relative;
+    float: left;
+}
+
+#link2 {
+    position: relative;
+    float: left;
+}
+
+#link3 {
+    position: relative;
+     float: left; 
+}
+
+#imagelinks {
+    display: inline-block;
+}
+
+#tag1 {
+    width: 194px;
+    height: 35px;
+    position: relative;
+    bottom: 100px;
+    left: 25px;
+    text-align: center;
+    font-size: 18px;
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: #29a3a3;
+}
+
 .clearfix:after {
     content: " "; /* Older browser do not support empty content */
     visibility: hidden;
