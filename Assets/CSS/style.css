@@ -107,6 +107,10 @@ footer {
     height: 50px;
     border-top: 8px solid #29a3a3;
 }
+
+.projectlink {
+    padding: 25px;
+}
 .clearfix:after {
     content: " "; /* Older browser do not support empty content */
     visibility: hidden;
