@@ -58,13 +58,16 @@ a:visited {
     margin-bottom: 200px;
     font-family: Arial, Helvetica, sans-serif;
     color: grey;
-    font-size: 14px;
+    font-size: 16px;
 }
 
 h3 {
     font-family: Georgia, 'Times New Roman', Times, serif;
-    font-size: 20px;
+    font-family: 'Oswald', sans-serif;
+    font-size: 28px;
     color: #29a3a3;
+    margin-left: 55px;
+    
 }
 
 #headshot {
